@@ -1,0 +1,63 @@
+.background-color {
+  background-color:black;
+}
+
+.header {
+  padding-top:30px;
+  color:white;
+  text-align:center;
+  font-size:50px;
+}
+
+.header span{
+  color:red;
+}
+
+.sns a{
+  font-family: monospace;
+  letter-spacing:15px;
+  font-size:40px;
+  color:black;
+}
+
+.youtube {
+  background-color:red;
+  text-align: center;
+}
+
+.youtube:hover {
+background-color:white;
+color:red;
+transition:background-color 1s;
+}
+
+.instagram {
+  background-color:orange;
+  text-align: center;
+}
+
+.instagram:hover {
+  background-color:white;
+  color:orange;
+  transition:background-color 1s;
+}
+
+.twitter {
+  background-color:cyan;
+  text-align: center;
+}
+
+.twitter:hover {
+  background-color:white;
+  color:lightblue;
+  transition:background-color 1s;
+}
+
+.blog h1{
+  color:white;
+  font-size:50px;
+}
+
+.blog p{
+  color:white;
+}
