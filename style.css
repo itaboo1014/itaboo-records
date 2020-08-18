@@ -54,6 +54,10 @@ transition:background-color 1s;
   transition:background-color 1s;
 }
 
+.blog {
+  text-align:center;
+}
+
 .blog h1{
   color:white;
   font-size:50px;
