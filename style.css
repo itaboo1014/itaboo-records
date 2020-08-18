@@ -55,7 +55,7 @@ transition:background-color 1s;
 }
 
 .blog {
-  text-align:center;
+  margin:0 auto;
 }
 
 .blog h1{
