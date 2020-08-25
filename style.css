@@ -55,6 +55,12 @@ transition:background-color 1s;
 }
 
 .kizai {
-  color:white;
-  margin:0 auto;
+  background-color:lightgreen;
+  text-align:center;
+}
+
+.kizai:hover {
+  background-color:white;
+  color:lightgreen;
+  transition:background-color 1s;
 }
