@@ -64,3 +64,7 @@ transition:background-color 1s;
   color:lightgreen;
   transition:background-color 1s;
 }
+
+.recording {
+  color:white;
+}
