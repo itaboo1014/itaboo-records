@@ -54,21 +54,6 @@ transition:background-color 1s;
   transition:background-color 1s;
 }
 
-.blog {
-  text-align:center;
-  padding-top:50px;
-  padding-bottom:100px;
-}
-
-.blog h1{
-  color:white;
-  font-size:50px;
-}
-
-.blog p{
-  color:white;
-}
-
 .kizai {
   color:white;
   margin:0 auto;
