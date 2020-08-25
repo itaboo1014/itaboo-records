@@ -70,5 +70,5 @@ transition:background-color 1s;
 }
 
 .photo {
-  image-size:cover;
+  width:100%;
 }
