@@ -77,7 +77,7 @@ transition:background-color 1s;
 
 .recording {
   color:white;
-  textalign:center;
+  text-align:center;
 }
 
 .engineer {
