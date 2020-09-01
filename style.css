@@ -87,10 +87,10 @@ transition:background-color 1s;
 
 .engineer-img img{
   width:50%;
-  text-align:left;
+  float:left;
 }
 
 .engineer-greeting{
-  text-align:;
+  float:right;
   color:white;
 }
