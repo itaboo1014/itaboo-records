@@ -81,12 +81,12 @@ transition:background-color 1s;
 }
 
 .engineer {
-  width:1000px;
+  width:90%;
   margin:0 auto;
 }
 
 .engineer-img{
-  width:400px;
+  width:50%;
   text-align:left;
 }
 
