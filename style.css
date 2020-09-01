@@ -3,11 +3,18 @@
   background-size:cover;
 }
 
-.header {
-  padding-top:30px;
+.header h1{
+  padding-top:15px;
   color:white;
   text-align:center;
   font-size:50px;
+}
+
+.header p {
+  padding-top:5px;
+  color:white;
+  text-align:center;
+  font-size:20px;
 }
 
 .header span{
