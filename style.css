@@ -85,12 +85,12 @@ transition:background-color 1s;
   margin:0 auto;
 }
 
-.engineer-img {
-  display:inline-box;
+.engineer-img img{
   width:50%;
   text-align:left;
 }
 
 .engineer-greeting{
   text-align:left;
+  color:white;
 }
