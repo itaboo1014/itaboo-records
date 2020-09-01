@@ -86,6 +86,7 @@ transition:background-color 1s;
 }
 
 .engineer-img {
+  display:inline-box;
   height:50px;
   text-align:left;
 }
