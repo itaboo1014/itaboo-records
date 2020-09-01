@@ -87,7 +87,7 @@ transition:background-color 1s;
 
 .engineer-img {
   display:inline-box;
-  height:50px;
+  width:50%;
   text-align:left;
 }
 
