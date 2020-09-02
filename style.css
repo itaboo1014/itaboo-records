@@ -75,23 +75,3 @@ transition:background-color 1s;
   color:lightgreen;
   transition:background-color 1s;
 }
-
-.recording {
-  color:white;
-  text-align:center;
-}
-
-.engineer {
-  width:90%;
-  margin:0 auto;
-}
-
-.engineer-img img{
-  width:50%;
-  float:left;
-}
-
-.engineer-greeting{
-  float:right;
-  color:white;
-}
