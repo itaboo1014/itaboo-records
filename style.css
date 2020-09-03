@@ -107,4 +107,11 @@ transition:background-color 1s;
 
 .sample-video{
   margin-top:50px;
+  float:left;
+}
+
+.sample-video p{
+  width:50%;
+  float:right;
+  textalign:left;
 }
