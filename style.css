@@ -91,4 +91,5 @@ transition:background-color 1s;
 .engineer img{
   float:left;
   width:40%;
+  z-index:10;
 }
