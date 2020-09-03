@@ -84,6 +84,11 @@ transition:background-color 1s;
   text-align:center;
 }
 
-.recording h2{
-  
+.engineer{
+  float:right;
+}
+
+.engineer img{
+  float:left;
+  width:40%;
 }
