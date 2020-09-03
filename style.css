@@ -96,3 +96,14 @@ transition:background-color 1s;
   z-index:10;
   margin-right:50px;
 }
+
+.sample-contents{
+  width:90%;
+  margin:0 auto;
+}
+
+.sample-video{
+  float:left;
+  width:40%;
+  margin:0 auto;
+}
