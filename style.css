@@ -2,7 +2,6 @@
   background-color:black;
   width:100%;
   height:100%;
-  z-index:10;
 }
 
 .header {
@@ -86,14 +85,4 @@ transition:background-color 1s;
 
 .recording h1{
   text-align:center;
-}
-
-.engineer img{
-  width:40%;
-  float:left;
-}
-
-.introduction{
-  width:40%;
-  float:right;
 }
