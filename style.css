@@ -79,5 +79,9 @@ transition:background-color 1s;
 .recording {
   padding-top:100px;
   text-align:center;
+  color:white;
 }
 
+.recording h1{
+  
+}
