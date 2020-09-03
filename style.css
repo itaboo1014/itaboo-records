@@ -89,10 +89,10 @@ transition:background-color 1s;
 
 .engineer{
   width:40%;
-  float:left;
+  text-align:left;
 }
 
 .introduction{
   width:40%;
-  float:left;
+  text-align:right;
 }
