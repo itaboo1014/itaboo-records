@@ -87,13 +87,14 @@ transition:background-color 1s;
 .engineer{
   float:right;
   text-align:left;
-  
+  width:45%;
+  margin:0 auto;
 }
 
 .engineer img{
   float:left;
-  width:50%;
-  z-index:10;
+  width:45%;
+  margin:0 auto;
   margin-right:50px;
   margin-bottom:100px;
 }
