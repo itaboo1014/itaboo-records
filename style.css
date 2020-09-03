@@ -75,3 +75,9 @@ transition:background-color 1s;
   color:lightgreen;
   transition:background-color 1s;
 }
+
+.recording {
+  padding-top:100px;
+  text-align:center;
+}
+
