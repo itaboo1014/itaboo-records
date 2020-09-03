@@ -86,6 +86,7 @@ transition:background-color 1s;
 
 .engineer{
   float:right;
+  text-align:left;
 }
 
 .engineer img{
