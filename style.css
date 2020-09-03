@@ -77,6 +77,8 @@ transition:background-color 1s;
 }
 
 .recording {
+  width:90%;
+  margin:0 auto;
   padding-top:100px;
   text-align:center;
   color:white;
@@ -84,4 +86,14 @@ transition:background-color 1s;
 
 .recording h1{
   
+}
+
+.engineer{
+  width:40%;
+  float:left;
+}
+
+.introduction{
+  width:40%;
+  float:left;
 }
