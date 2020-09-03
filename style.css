@@ -80,12 +80,11 @@ transition:background-color 1s;
   width:90%;
   margin:0 auto;
   padding-top:100px;
-  text-align:center;
   color:white;
 }
 
 .recording h1{
-  
+  text-align:center;
 }
 
 .engineer{
