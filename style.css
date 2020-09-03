@@ -81,8 +81,9 @@ transition:background-color 1s;
   margin:0 auto;
   padding-top:100px;
   color:white;
+  text-align:center;
 }
 
-.recording h1{
-  text-align:center;
+.recording h2{
+  
 }
