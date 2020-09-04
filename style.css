@@ -99,7 +99,6 @@ transition:background-color 1s;
   float:right;
   text-aign:left;
   width:45%;
-  margin:0 auto;
 }
 
 .sample-contents{
@@ -114,13 +113,13 @@ transition:background-color 1s;
 }
 
 .sample-video p{
-  width:40%;
+  width:45%;
   float:right;
   textalign:left;
 }
 
 .sample-video-1{
-  
+  margin-top:100px;
 }
 
 .sample-video-2{
