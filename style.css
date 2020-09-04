@@ -85,18 +85,20 @@ transition:background-color 1s;
 }
 
 .engineer{
-  float:right;
-  text-align:left;
+  margin:0 auto;
+  margin-bottom:100px;
+}
+
+.engineer-photo{
+  float:left;
   width:45%;
   margin:0 auto;
 }
 
-.engineer img{
-  float:left;
+.engineer-word{
+  float:right;
   width:45%;
   margin:0 auto;
-  margin-right:50px;
-  margin-bottom:100px;
 }
 
 .sample-contents{
