@@ -89,7 +89,7 @@ transition:background-color 1s;
   margin-bottom:100px;
 }
 
-.engineer-photo{
+.engineer-photo img{
   float:left;
   width:45%;
   margin:0 auto;
@@ -97,6 +97,7 @@ transition:background-color 1s;
 
 .engineer-word{
   float:right;
+  text-aign:left;
   width:45%;
   margin:0 auto;
 }
