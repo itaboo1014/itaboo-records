@@ -90,13 +90,10 @@ transition:background-color 1s;
 }
 
 .engineer-photo img{
-  float:left;
   width:45%;
-  margin:0 auto;
 }
 
 .engineer-word{
-  float:right;
   text-aign:left;
   width:45%;
 }
