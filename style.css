@@ -94,6 +94,8 @@ transition:background-color 1s;
 }
 
 .engineer-word{
+  text-align:center;
+  margin:0 auto;
   margin-top:30px;
   width:45%;
 }
