@@ -130,8 +130,7 @@ transition:background-color 1s;
 }
 
 .rec-charge{
-  text-align:left;
-  float:left;
+  text-align:center;
   margin-top:700px;
   width:80%; 
   margin:0 auto;
