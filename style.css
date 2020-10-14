@@ -92,25 +92,46 @@ ul,li{
 }
 
 
-
 .recording{
     margin:50px 0px;
 }
 
-.engineer-photo img{
-    width:100%;
-    height:auto;
+.engineer{
+    margin-top: 100px;
+    width: 100%;
 }
 
+.engineer-photo {
+    padding-top: 50px;
+    float:left;
+    widows: 45%;
+    height:0 auto;
+}
+
+.engineer-word {
+    float:right;
+    width:45%;
+}
+
+
+
 .sample-contents{
-    margin:50px 0px;
+    margin-top:50px;
+}
+
+.sample-video iframe{
+    text-align: center;
+    margin-bottom:10px;
 }
 
 .rec-charge{
-    margin:50px 0px;
+    margin-top:100px;
 }
 
+.
+
+
 .footer{
-    margin:50px 0px;
+    margin-top:100px;
     text-align:center;
 }
